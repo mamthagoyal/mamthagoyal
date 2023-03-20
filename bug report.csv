@@ -1,0 +1,16 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+11,major,High,Windows,jaya@gmail.com,NEW,---,it is not working for all the option.
+12,major,High,Windows,jaya@gmail.com,NEW,---,it is not working for all the option.
+13,major,High,Windows,jaya@gmail.com,NEW,---,it is not working for all the option.
+18,major,High,Windows,kamlesh@gmail.com,NEW,---,its not opening
+17,major,High,Windows,manisha@gmail.com,NEW,---,image is not properly displaying
+20,major,Normal,Windows,kamlesh@gmail.com,NEW,---,filetr is  not working as per the expectation
+16,minor,Low,Windows,kunal@gmail.com,NEW,---,resetapp menu is not working as per the expectation
+14,major,Low,Windows,vimal@gmail.com,NEW,---,all item menu is not working as  the expectation
+15,major,Low,Windows,jiya@gmail.com,ASSIGNED,---,"its not working as per the expectation,another site is opening"
+21,major,High,Windows,indra@gmail.com,RESOLVED,FIXED,its not working as per the expectation
+9,major,High,Windows,jaya@gmail.com,RESOLVED,FIXED,it is not working for all the option.
+10,major,High,Windows,jaya@gmail.com,RESOLVED,FIXED,it is not working for all the option.
+23,critical,High,Windows,yash@gmail.com,RESOLVED,FIXED,moving back to the product is not working
+19,major,High,Windows,yuvan@gmail.com,RESOLVED,FIXED,its not opening
+22,critical,Low,Windows,milan@gmail.com,RESOLVED,FIXED,"we can continue shopping,it is working as per the expectation they is a performance defect"

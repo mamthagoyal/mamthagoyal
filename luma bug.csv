@@ -1,0 +1,9 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+5,major,Low,Windows,gita@gmail.com,NEW,---,"print reciept menu is not working, another tab is opening."
+6,major,High,Windows,dev@gmail.com,ASSIGNED,---,it is not working for all the option.
+2,major,Low,Windows,nitu@gmail.com,ASSIGNED,---,as per expected result
+7,major,High,Windows,dev@gmail.com,RESOLVED,FIXED,it is not working for all the option.
+1,major,High,Windows,nitu@gmail.com,RESOLVED,FIXED,as per expected result
+8,major,High,Windows,nitu@gmail.com,RESOLVED,FIXED,not to display proper validation message
+4,minor,Low,Windows,arun@gmail.com,RESOLVED,FIXED,video downloading menu is working not  as per the expectation
+3,minor,Low,Windows,chirag@gmail.com,RESOLVED,FIXED,luma gear steals menu is  not working as per the expectation
